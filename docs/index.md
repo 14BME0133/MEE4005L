@@ -12,23 +12,23 @@ Experiments conducted in the T. sanathanan Computing Facility, SMEC
 
 ## `Laboratory` Computaional Fluid Dynamics
 
-[	0x00	`/RES/E8/E8.pdf` :: Download Here!](./RES/E8/E8.pdf)
+ - free BINARIES! [	0x00	`/RES/E8/E8.pdf` :: Download Here!](./RES/E8/E8)
 
-[	0x01	`/RES/E7/E7.pdf` :: Download Here!](./RES/E7/E7.pdf)
+ - free BINARIES! [	0x01	`/RES/E7/E7.pdf` :: Download Here!](./RES/E7/E7)
 
-[	0x02	`/RES/E6/E6.pdf` :: Download Here!](./RES/E6/E6.pdf)
+ - free BINARIES! [	0x02	`/RES/E6/E6.pdf` :: Download Here!](./RES/E6/E6)
 
-[	0x03	`/RES/E5/E5.pdf` :: Download Here!](./RES/E5/E5.pdf)
+ - free BINARIES! [	0x03	`/RES/E5/E5.pdf` :: Download Here!](./RES/E5/E5)
 
-[	0x04	`/RES/E4/E4.pdf` :: Download Here!](./RES/E4/E4.pdf)
+ - free BINARIES! [	0x04	`/RES/E4/E4.pdf` :: Download Here!](./RES/E4/E4)
 
-[	0x05	`/RES/E3/E3.pdf` :: Download Here!](./RES/E3/E3.pdf)
+ - free BINARIES! [	0x05	`/RES/E3/E3.pdf` :: Download Here!](./RES/E3/E3)
 
-[	0x06	`/RES/E2/E2.pdf` :: Download Here!](./RES/E2/E2.pdf)
+ - free BINARIES! [	0x06	`/RES/E2/E2.pdf` :: Download Here!](./RES/E2/E2)
 
-[	0x07	`/RES/E1/E2.pdf` :: Download Here!](./RES/E1/E2.pdf)
+ - free BINARIES! [	0x07	`/RES/E1/E2.pdf` :: Download Here!](./RES/E1/E2)
 
-[	0x08	`/RES/E1/E1.pdf` :: Download Here!](./RES/E1/E1.pdf)
+ - free BINARIES! [	0x08	`/RES/E1/E1.pdf` :: Download Here!](./RES/E1/E1)
 
 ----
 ----
