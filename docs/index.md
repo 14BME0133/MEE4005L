@@ -41,14 +41,6 @@ Experiments conducted in the T. sanathanan Computing Facility, SMEC
 
 [BOOKS](https://14bme0133.github.io/MEE4006/textbooks/)
 
----
-
-[`Laboratory`](https://14bme0133.github.io/MEE4006L)
-[`Theory`](https://14bme0133.github.io/MEE4006)
-
-
-[`HOME :: 14BME0133`](https://14bme0133.github.io/)
-
 
 ---
 
